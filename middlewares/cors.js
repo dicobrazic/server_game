@@ -14,4 +14,4 @@ const allowedCors = [
     'http://localhost:3000'
 ];
 
-module.exports = { cors}
+module.exports = cors
